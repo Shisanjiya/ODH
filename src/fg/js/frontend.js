@@ -9,7 +9,7 @@ class ODHFront {
         this.audio = {};
         this.enabled = true;
         this.mouseselection = true;
-        this.activateKey = 16; // shift 16, ctl 17, alt 18
+        this.activateKey = 112; // shift 16, ctl 17, alt 18
         this.exitKey = 27; // esc 27
         this.maxContext = 1; //max context sentence #
         this.services = 'none';
